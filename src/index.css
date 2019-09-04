@@ -24,16 +24,31 @@ h1 {
     background-color: darkgreen;
     width: 25px;
     height: 25px;
+    padding: 0;
+    border: none;
+    outline: none;
+    display: block;
+    float: left;
 }
 
 .tileOcean {
     background-color: lightseagreen;
     width: 25px;
     height: 25px;
+    padding: 0;
+    border: none;
+    outline: none;
+    display: block;
+    float: left;
 }
 
 .tileCloud {
     background-color: tan;
     width: 25px;
     height: 25px;
+    padding: 0;
+    border: none;
+    outline: none;
+    display: block;
+    float: left;
 }

@@ -5,7 +5,7 @@ class Island extends React.Component{
 
     makeEmptyArray(){
         var list = []
-        for(var i = 0; i < 560; i++){
+        for(var i = 0; i < 800; i++){
             list.push(0)
         }
         return list
