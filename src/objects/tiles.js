@@ -1,6 +1,6 @@
 import React from 'react'
 
-class Button extends React.Component{
+class Tile extends React.Component{
     render(){
         return(
             <button className={this.props.tileType}></button>
@@ -8,4 +8,4 @@ class Button extends React.Component{
     }
 }
 
-export default Button;
+export default Tile;

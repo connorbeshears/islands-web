@@ -9,14 +9,31 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
 }
 
+h1 {
+    align-content: center;
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    flex-wrap: wrap;
+}
+
 .tileIsland {
     background-color: darkgreen;
     width: 25px;
     height: 25px;
 }
 
+.tileOcean {
+    background-color: lightseagreen;
+    width: 25px;
+    height: 25px;
+}
+
 .tileCloud {
-    background-color: white;
+    background-color: tan;
     width: 25px;
     height: 25px;
 }
