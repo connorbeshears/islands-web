@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/islands-web/static/css/main.c922c188.chunk.css",
-    "main.js": "/islands-web/static/js/main.8fad2cec.chunk.js",
-    "main.js.map": "/islands-web/static/js/main.8fad2cec.chunk.js.map",
+    "main.js": "/islands-web/static/js/main.db13b843.chunk.js",
+    "main.js.map": "/islands-web/static/js/main.db13b843.chunk.js.map",
     "runtime~main.js": "/islands-web/static/js/runtime~main.6e50131a.js",
     "runtime~main.js.map": "/islands-web/static/js/runtime~main.6e50131a.js.map",
     "static/js/2.d4e1f3a4.chunk.js": "/islands-web/static/js/2.d4e1f3a4.chunk.js",
     "static/js/2.d4e1f3a4.chunk.js.map": "/islands-web/static/js/2.d4e1f3a4.chunk.js.map",
     "index.html": "/islands-web/index.html",
-    "precache-manifest.b33e78aa59435cd251ed3a817b41cf53.js": "/islands-web/precache-manifest.b33e78aa59435cd251ed3a817b41cf53.js",
+    "precache-manifest.7d4651b34e3b36f3837f362b1295ec48.js": "/islands-web/precache-manifest.7d4651b34e3b36f3837f362b1295ec48.js",
     "service-worker.js": "/islands-web/service-worker.js",
     "static/css/main.c922c188.chunk.css.map": "/islands-web/static/css/main.c922c188.chunk.css.map"
   }
